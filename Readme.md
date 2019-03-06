@@ -1,6 +1,6 @@
-THA 1 is the python file which contains the merged state names as the final output. In order to attain that, the following files should be downloaded and the code mentioned in the file should be run to get the output. Codenames within the specific files have been listed: 
+THA 1.ipynb is the final output python file which contains the merged state names as the final output from the previous assignment. In order to attain that, the following 3 files which have been uploaded in Github should be downloaded. Run the code written in THA-1.ipynb and the result should be a merged dataset. Below is information on the files and their description. Codenames within the specific files have been listed: 
 
-* The **Census**, **DHS** and **IHSDS** files contain information on various state names in India. The objective was to list and find the names of common states in India and those names have been merged into a table. 
+* The **Census**, **DHS** and **IHSDS** files contain information on various state names in India along with other variables. The objective was to list and find the names of common states in India and those names have been merged into a table. 
 
 
 * [Census](http://www.censusindia.gov.in/2011census/population_enumeration.html): "State" refers to the list of states in India 
